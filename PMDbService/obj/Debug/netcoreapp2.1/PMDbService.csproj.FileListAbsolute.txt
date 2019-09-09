@@ -13,3 +13,12 @@ D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.AssemblyInfo
 D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.csproj.CopyComplete
 D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.dll
 D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.pdb
+C:\GitHub\JX_PM_Service\PMDbService\bin\Debug\netcoreapp2.1\PMDbService.deps.json
+C:\GitHub\JX_PM_Service\PMDbService\bin\Debug\netcoreapp2.1\PMDbService.dll
+C:\GitHub\JX_PM_Service\PMDbService\bin\Debug\netcoreapp2.1\PMDbService.pdb
+C:\GitHub\JX_PM_Service\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.csprojAssemblyReference.cache
+C:\GitHub\JX_PM_Service\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.csproj.CoreCompileInputs.cache
+C:\GitHub\JX_PM_Service\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.AssemblyInfoInputs.cache
+C:\GitHub\JX_PM_Service\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.AssemblyInfo.cs
+C:\GitHub\JX_PM_Service\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.dll
+C:\GitHub\JX_PM_Service\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.pdb
