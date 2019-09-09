@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS2019Data\\JX_PM\\JX_PM\\PMAPP.csproj": {}
+    "C:\\GitHub\\JX_PM_Service\\JX_PM\\PMAPP.csproj": {}
   },
   "projects": {
-    "D:\\VS2019Data\\JX_PM\\JX_PM\\PMAPP.csproj": {
+    "C:\\GitHub\\JX_PM_Service\\JX_PM\\PMAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\JX_PM\\PMAPP.csproj",
+        "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\JX_PM\\PMAPP.csproj",
         "projectName": "PMAPP",
-        "projectPath": "D:\\VS2019Data\\JX_PM\\JX_PM\\PMAPP.csproj",
+        "projectPath": "C:\\GitHub\\JX_PM_Service\\JX_PM\\PMAPP.csproj",
         "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019Data\\JX_PM\\JX_PM\\obj\\",
+        "outputPath": "C:\\GitHub\\JX_PM_Service\\JX_PM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
-                "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj"
+              "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj": {
+                "projectPath": "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj"
               },
-              "D:\\VS2019Data\\JX_PM\\PMServiceApi\\PMServiceApi.csproj": {
-                "projectPath": "D:\\VS2019Data\\JX_PM\\PMServiceApi\\PMServiceApi.csproj"
+              "C:\\GitHub\\JX_PM_Service\\PMServiceApi\\PMServiceApi.csproj": {
+                "projectPath": "C:\\GitHub\\JX_PM_Service\\PMServiceApi\\PMServiceApi.csproj"
               },
-              "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj": {
-                "projectPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj"
+              "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj": {
+                "projectPath": "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
+    "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj",
+        "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj",
         "projectName": "PMModel",
-        "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj",
+        "projectPath": "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj",
         "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019Data\\JX_PM\\PMModel\\obj\\",
+        "outputPath": "C:\\GitHub\\JX_PM_Service\\PMModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\VS2019Data\\JX_PM\\PMServiceApi\\PMServiceApi.csproj": {
+    "C:\\GitHub\\JX_PM_Service\\PMServiceApi\\PMServiceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMServiceApi\\PMServiceApi.csproj",
+        "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\PMServiceApi\\PMServiceApi.csproj",
         "projectName": "PMServiceApi",
-        "projectPath": "D:\\VS2019Data\\JX_PM\\PMServiceApi\\PMServiceApi.csproj",
+        "projectPath": "C:\\GitHub\\JX_PM_Service\\PMServiceApi\\PMServiceApi.csproj",
         "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019Data\\JX_PM\\PMServiceApi\\obj\\",
+        "outputPath": "C:\\GitHub\\JX_PM_Service\\PMServiceApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -180,14 +180,14 @@
         }
       }
     },
-    "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj": {
+    "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj",
+        "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj",
         "projectName": "PMUtil",
-        "projectPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj",
+        "projectPath": "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj",
         "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\obj\\",
+        "outputPath": "C:\\GitHub\\JX_PM_Service\\PMUtil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj",
+      "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\PMDao\\PMDAL.csproj",
       "projectName": "PMDAL",
-      "projectPath": "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj",
+      "projectPath": "C:\\GitHub\\JX_PM_Service\\PMDao\\PMDAL.csproj",
       "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-      "outputPath": "D:\\VS2019Data\\JX_PM\\PMDao\\obj\\",
+      "outputPath": "C:\\GitHub\\JX_PM_Service\\PMDao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -765,14 +765,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj": {
-              "projectPath": "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj"
+            "C:\\GitHub\\JX_PM_Service\\PMDbService\\PMDbService.csproj": {
+              "projectPath": "C:\\GitHub\\JX_PM_Service\\PMDbService\\PMDbService.csproj"
             },
-            "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
-              "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj"
+            "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj": {
+              "projectPath": "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj"
             },
-            "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj": {
-              "projectPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj"
+            "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj": {
+              "projectPath": "C:\\GitHub\\JX_PM_Service\\PMUtil\\PMUtil.csproj"
             }
           }
         }

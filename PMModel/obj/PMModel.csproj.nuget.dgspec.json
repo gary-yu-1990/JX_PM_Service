@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {}
+    "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj": {}
   },
   "projects": {
-    "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
+    "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj",
+        "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj",
         "projectName": "PMModel",
-        "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj",
+        "projectPath": "C:\\GitHub\\JX_PM_Service\\PMModel\\PMModel.csproj",
         "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019Data\\JX_PM\\PMModel\\obj\\",
+        "outputPath": "C:\\GitHub\\JX_PM_Service\\PMModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj",
+      "projectUniqueName": "C:\\GitHub\\JX_PM_Service\\PMDbService\\PMDbService.csproj",
       "projectName": "PMDbService",
-      "projectPath": "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj",
+      "projectPath": "C:\\GitHub\\JX_PM_Service\\PMDbService\\PMDbService.csproj",
       "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
-      "outputPath": "D:\\VS2019Data\\JX_PM\\PMDbService\\obj\\",
+      "outputPath": "C:\\GitHub\\JX_PM_Service\\PMDbService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
