@@ -1,0 +1,16 @@
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDAL.deps.json
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDAL.dll
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDAL.pdb
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDbService.dll
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMModel.dll
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMUtil.dll
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDbService.pdb
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMModel.pdb
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMUtil.pdb
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.csprojAssemblyReference.cache
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.csproj.CoreCompileInputs.cache
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.AssemblyInfoInputs.cache
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.AssemblyInfo.cs
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.csproj.CopyComplete
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.dll
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDAL.pdb

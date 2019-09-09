@@ -1,0 +1,15 @@
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\PMDbService.deps.json
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\PMDbService.dll
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\PMDbService.pdb
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\ZORM.dll
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\MySql.Data.dll
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\ZORM.pdb
+D:\VS2019Data\JX_PM\PMDbService\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.csprojAssemblyReference.cache
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.csproj.CoreCompileInputs.cache
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.AssemblyInfoInputs.cache
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.AssemblyInfo.cs
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.csproj.CopyComplete
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.dll
+D:\VS2019Data\JX_PM\PMDbService\obj\Debug\netcoreapp2.1\PMDbService.pdb

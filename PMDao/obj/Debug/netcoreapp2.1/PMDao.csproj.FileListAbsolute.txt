@@ -1,0 +1,9 @@
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDao.deps.json
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDao.dll
+D:\VS2019Data\JX_PM\PMDao\bin\Debug\netcoreapp2.1\PMDao.pdb
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDao.csprojAssemblyReference.cache
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDao.csproj.CoreCompileInputs.cache
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDao.AssemblyInfoInputs.cache
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDao.AssemblyInfo.cs
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDao.dll
+D:\VS2019Data\JX_PM\PMDao\obj\Debug\netcoreapp2.1\PMDao.pdb

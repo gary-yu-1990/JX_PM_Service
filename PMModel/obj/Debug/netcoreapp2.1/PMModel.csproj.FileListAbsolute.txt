@@ -1,0 +1,8 @@
+D:\VS2019Data\JX_PM\PMModel\bin\Debug\netcoreapp2.1\PMModel.deps.json
+D:\VS2019Data\JX_PM\PMModel\bin\Debug\netcoreapp2.1\PMModel.dll
+D:\VS2019Data\JX_PM\PMModel\bin\Debug\netcoreapp2.1\PMModel.pdb
+D:\VS2019Data\JX_PM\PMModel\obj\Debug\netcoreapp2.1\PMModel.csproj.CoreCompileInputs.cache
+D:\VS2019Data\JX_PM\PMModel\obj\Debug\netcoreapp2.1\PMModel.AssemblyInfoInputs.cache
+D:\VS2019Data\JX_PM\PMModel\obj\Debug\netcoreapp2.1\PMModel.AssemblyInfo.cs
+D:\VS2019Data\JX_PM\PMModel\obj\Debug\netcoreapp2.1\PMModel.dll
+D:\VS2019Data\JX_PM\PMModel\obj\Debug\netcoreapp2.1\PMModel.pdb

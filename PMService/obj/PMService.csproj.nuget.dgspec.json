@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VS2019Data\\JX_PM\\PMService\\PMService.csproj": {}
+  },
+  "projects": {
+    "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj",
+        "projectName": "PMDAL",
+        "projectPath": "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj",
+        "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Data\\JX_PM\\PMDao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ycl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj": {
+                "projectPath": "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj"
+              },
+              "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
+                "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj"
+              },
+              "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj": {
+                "projectPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj",
+        "projectName": "PMDbService",
+        "projectPath": "D:\\VS2019Data\\JX_PM\\PMDbService\\PMDbService.csproj",
+        "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Data\\JX_PM\\PMDbService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ycl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj",
+        "projectName": "PMModel",
+        "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj",
+        "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Data\\JX_PM\\PMModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ycl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\VS2019Data\\JX_PM\\PMService\\PMService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMService\\PMService.csproj",
+        "projectName": "PMService",
+        "projectPath": "D:\\VS2019Data\\JX_PM\\PMService\\PMService.csproj",
+        "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Data\\JX_PM\\PMService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ycl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj": {
+                "projectPath": "D:\\VS2019Data\\JX_PM\\PMDao\\PMDAL.csproj"
+              },
+              "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj": {
+                "projectPath": "D:\\VS2019Data\\JX_PM\\PMModel\\PMModel.csproj"
+              },
+              "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj": {
+                "projectPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj",
+        "projectName": "PMUtil",
+        "projectPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\PMUtil.csproj",
+        "packagesPath": "C:\\Users\\ycl\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Data\\JX_PM\\PMUtil\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ycl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
