@@ -13,3 +13,9 @@
 /PMServiceApi/obj/Debug/netcoreapp2.1/
 /PMUtil/bin/Debug/netcoreapp2.1/
 /PMUtil/obj/Debug/netcoreapp2.1/
+.vs/JX_PM/v16/.suo
+*.cache
+PMDao/bin/Debug/netcoreapp2.1/PMDAL.dll
+PMDao/bin/Debug/netcoreapp2.1/PMDbService.dll
+PMUtil/obj/Debug/netcoreapp2.1/PMUtil.csprojAssemblyReference.cache
+PMDao/bin/Debug/netcoreapp2.1/PMModel.pdb
