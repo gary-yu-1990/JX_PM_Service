@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PMDao\PM.DAL.csproj" />
+    <ProjectReference Include="..\PMModel\PM.Model.csproj" />
+    <ProjectReference Include="..\PMUtil\PM.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Service\" />
+    <Folder Include="ServiceApi\" />
+  </ItemGroup>
+
+</Project>
