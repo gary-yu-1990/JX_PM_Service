@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PMDbService\PMDbService.csproj" />
-    <ProjectReference Include="..\PMModel\PMModel.csproj" />
-    <ProjectReference Include="..\PMUtil\PMUtil.csproj" />
+    <ProjectReference Include="..\PMDbService\PM.DbService.csproj" />
+    <ProjectReference Include="..\PMModel\PM.Model.csproj" />
+    <ProjectReference Include="..\PMUtil\PM.Util.csproj" />
   </ItemGroup>
 
 </Project>

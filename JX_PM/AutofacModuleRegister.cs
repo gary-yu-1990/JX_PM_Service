@@ -10,8 +10,8 @@ namespace JX_PM
         protected override void Load(ContainerBuilder builder)
         {
             //注册Service中的对象,Service中的类要以Service结尾，否则注册失败
-            builder.RegisterAssemblyTypes(GetAssemblyByName("PMService")).Where(a => a.Name.EndsWith("Service")).AsImplementedInterfaces();
-            builder.RegisterAssemblyTypes(GetAssemblyByName("PMService")).Where(a => a.Name.EndsWith("Service")).AsImplementedInterfaces();
+            builder.RegisterAssemblyTypes(GetAssemblyByName("PM.Service")).Where(a => a.Name.EndsWith("Service")).AsImplementedInterfaces();
+            builder.RegisterAssemblyTypes(GetAssemblyByName("PM.DbService")).Where(a => a.Name.EndsWith("Service")).AsImplementedInterfaces();
             //注册Repository中的对象,Repository中的类要以Repository结尾，否则注册失败
         }
         /// <summary>

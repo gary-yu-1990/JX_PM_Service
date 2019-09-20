@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using PM.Service.Service;
 
 namespace JX_PM.Controllers
 {
@@ -10,11 +11,19 @@ namespace JX_PM.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private IPersonService iService;
+
+        //通过构造函数注入Service
+        public ValuesController(IPersonService service)
+        {
+            iService = service;
+        }
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+
+            return new string[] { iService.GetPersonName() };
         }
 
         // GET api/values/5

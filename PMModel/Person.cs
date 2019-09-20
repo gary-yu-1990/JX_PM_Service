@@ -1,8 +1,9 @@
-﻿using System;
+﻿using PM.Model;
+using System;
 
 namespace PMModel
 {
-    public class PersonInfo
+    public class Person: BaseModel
     {
         private string _id;
         private string _name;

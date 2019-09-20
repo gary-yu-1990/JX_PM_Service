@@ -10,9 +10,4 @@
     <ProjectReference Include="..\PMUtil\PM.Util.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Service\" />
-    <Folder Include="ServiceApi\" />
-  </ItemGroup>
-
 </Project>
